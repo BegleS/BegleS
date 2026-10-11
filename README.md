@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BegleS
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning Games Programming
+- 👀 I’m interested in Software Development
+- 🌱 I have a Bachelor's Degree in Computing (Games Programming)
 
 <!---
 BegleS/BegleS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
